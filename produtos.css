@@ -115,3 +115,9 @@ label {
   background: darkorange;
   transform: scale(1.2);
   }
+
+.utensilios{
+  width: 120px;
+  float: letf;
+  margin: 0 20px 20px 0;
+}
