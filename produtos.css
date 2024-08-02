@@ -90,6 +90,10 @@ footer {
   margin-top: 20px;
   }
 
+main{
+  backgound: linear-gradient (#FEFEFE, #888888);
+}
+
 .checkbox {
   margin: 20px 0;
 }
