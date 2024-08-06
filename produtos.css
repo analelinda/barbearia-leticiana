@@ -1,5 +1,5 @@
 header {
-  background-color: #BBBBBB;
+  background-color: #A0A0A0;
   padding: 20px 0;
 }
 
@@ -91,7 +91,14 @@ footer {
   }
 
 main{
-  backgound: linear-gradient (#FEFEFE, #888888);
+  background: linear-gradient (#FEFEFE, #888888);
+}
+
+.input-padrao {
+  display: block;
+  margin: 0 0 20px;
+  padding: 10px 25;
+  width: 50%;
 }
 
 .checkbox {
@@ -118,7 +125,58 @@ label {
 .enviar: hover{
   background: darkorange;
   transform: scale(1.2);
-  }
+}
+
+table {
+  margin: 20px 0 40px 0;
+}
+thead {
+  background: #555555;
+  color : white;
+  font-weight: bold;
+}
+
+td {
+  border: 1px solid #555555;
+  padding: 8px 15px;
+}
+
+.banner {
+  width: 100%;
+}
+
+.principal {
+padding: 1em 0;  
+margin: 0 alto;
+width: 940px;
+}
+
+.titulo-principal{
+  text-align: center;
+  font-size: 2em
+  margin: 0 0 1em;
+} 
+
+.beneficios {
+  padding: 20px;
+  width: 940px;
+  margin: 0 auto;
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+
+.item{
+  font-size: italic;
+}
+
+.imagem-beneficios{
+  width: 50%;
+}
 
 .utensilios{
   width: 120px;
