@@ -157,6 +157,10 @@ width: 940px;
   margin: 0 0 1em;
 } 
 
+.principal p {
+margin: 0 0 1m;  
+}
+
 .beneficios {
   padding: 20px;
   width: 940px;
